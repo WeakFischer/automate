@@ -11,3 +11,4 @@ webbrowser.open("https://www.accuweather.com/en/za/durban/305605/hourly-weather-
 
 
 # I AM ADDING THIS COMMENT TO CHECK IF I HAVE SET UP GIT CORRECTLY IN THE TERMINAL
+# I want to check if I still have my branching and merging skills on point.
